@@ -1,4 +1,4 @@
-...@model Farmer_MP.ViewModel.BuyerDashboardViewModel
+..@model Farmer_MP.ViewModel.BuyerDashboardViewModel
 
 <div class="dashboard">
     <!-- Sidebar with navigation -->
